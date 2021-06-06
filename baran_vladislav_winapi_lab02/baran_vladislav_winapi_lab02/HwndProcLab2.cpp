@@ -41,7 +41,7 @@ void HwndProcLab2::ClickTask3() {
 }
 
 void HwndProcLab2::PressPlus() {
-	if (task == 1) {
+	if (task == 1 && font_size < 100) {
 		int size = wcslen(text);
 		font_size += 2;
 		text[size] = L'+';

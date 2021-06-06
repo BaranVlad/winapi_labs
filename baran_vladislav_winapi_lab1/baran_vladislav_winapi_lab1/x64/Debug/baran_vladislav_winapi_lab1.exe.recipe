@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\x64\Debug\baran_vladislav_winapi_lab1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\hdlg_proc.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\hwnd_proc.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\main.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\main_window.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\hdlg_proc.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\hwnd_proc.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\main_window.h</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,9 @@
+﻿  baran_vladislav_lab04_winapi_task2.cpp
+  Button.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab04_winapi_task2\baran_vladislav_lab04_winapi_task2\Button.cpp(9,1): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  ListBox.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab04_winapi_task2\baran_vladislav_lab04_winapi_task2\ListBox.cpp(11,1): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab04_winapi_task2\baran_vladislav_lab04_winapi_task2\ListBox.cpp(32,20): warning C4244: return: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab04_winapi_task2\baran_vladislav_lab04_winapi_task2\ListBox.cpp(40,20): warning C4244: return: преобразование "LRESULT" в "int", возможна потеря данных
+  Создание кода...
+  baran_vladislav_lab04_winapi_task2.vcxproj -> C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab04_winapi_task2\x64\Debug\baran_vladislav_lab04_winapi_task2.exe

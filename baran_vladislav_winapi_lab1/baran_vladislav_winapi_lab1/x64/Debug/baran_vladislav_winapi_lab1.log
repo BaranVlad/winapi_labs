@@ -1,0 +1,16 @@
+﻿  hdlg_proc.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\hdlg_proc.cpp(12,21): warning C4244: аргумент: преобразование "WPARAM" в "WORD", возможна потеря данных
+  hwnd_proc.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\hwnd_proc.cpp(12,21): warning C4244: аргумент: преобразование "WPARAM" в "WORD", возможна потеря данных
+  hwnd_proc_lab1.cpp
+  main.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\main.cpp(22,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  main_window.cpp
+  main_window_lab1.cpp
+  schedule.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\schedule.cpp(55,136): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\schedule.cpp(81,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\schedule.cpp(83,96): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\baran_vladislav_winapi_lab1\schedule.cpp(85,102): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  baran_vladislav_winapi_lab1.vcxproj -> C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab1\x64\Debug\baran_vladislav_winapi_lab1.exe

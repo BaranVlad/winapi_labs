@@ -1,0 +1,7 @@
+﻿  baran_vladislav_winapi_lab5.cpp
+  Calculator.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab5\baran_vladislav_winapi_lab5\Calculator.cpp(49,30): warning C4244: return: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab5\baran_vladislav_winapi_lab5\Calculator.cpp(71,30): warning C4129: .: неизвестная escape-последовательность
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab5\baran_vladislav_winapi_lab5\Calculator.cpp(76,28): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  baran_vladislav_winapi_lab5.vcxproj -> C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_winapi_lab5\x64\Debug\baran_vladislav_winapi_lab5.exe

@@ -1,0 +1,5 @@
+﻿  baran_vladislav_lab4_task1.cpp
+C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab4_task1\baran_vladislav_lab4_task1\baran_vladislav_lab4_task1.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TicTacToe.cpp
+  Создание кода...
+  baran_vladislav_lab4_task1.vcxproj -> C:\Users\user\source\repos\Dwinapi_labs\baran_vladislav_lab4_task1\x64\Debug\baran_vladislav_lab4_task1.exe
